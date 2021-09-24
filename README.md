@@ -23,7 +23,7 @@ doctor y un paciente.
 • Tener control de acceso mediante administradores: solo ciertos usuarios podrán acceder al sistema mediante un
 identificador y una contraseña.
 
-#Creditos / Licencia
+#Creditos /  Licencia
 
 Aldo Perez Martinez
 
